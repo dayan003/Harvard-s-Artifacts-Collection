@@ -33,5 +33,3 @@ Copy code
 streamlit run app.py
 License
 This project is licensed under the MIT License.
-
-This version will render nicely on GitHub and is clear for anyone who wants to use your project.  
